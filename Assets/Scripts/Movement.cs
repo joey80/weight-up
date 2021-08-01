@@ -3,7 +3,7 @@ using UnityEngine;
 // Basic WASD 3d movement
 public class Movement : MonoBehaviour
 {
-    public float speed = 10;
+    public float speed = 10f;
 
     // Update is called once per frame
     void Update()

@@ -1,7 +1,7 @@
 using UnityEngine;
 
 // Basic WASD 3d movement
-public class Movement : MonoBehaviour
+public class PlayerMovement : MonoBehaviour
 {
     public float speed = 10f;
 
